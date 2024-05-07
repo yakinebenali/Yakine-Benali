@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yakine benali</h1>
 <h3 align="center">A passionate FullStack developer from Tunisia</h3>
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React** **, Flutter**
 
 - 📫 How to reach me **yakinebenali5@gmail.com**
 
